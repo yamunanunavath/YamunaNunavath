@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**yamunanunavath/YamunaNunavath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Project Repository  
 
-Here are some ideas to get you started:
+## Goals  
+This repository is created as part of my assignment. The main goals are:  
+- To learn the basics of Data Analysis 
+- To organize project files systematically  
+- To maintain a structured and well-documented workflow  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Naming System  
+Files and folders will follow a structured naming convention:  
+- `topic_version.ext` (e.g., `analysis_v1.py`)  
+- Folders categorized based on tasks (e.g., `data/`, `scripts/`, `results/`)  
+- Clear and meaningful names for easy identification  
+
+## Repository Structure  
+The repository will be organized as follows:  
+- data/ → Stores datasets  
+- scripts/ → Contains code files  
+- results/ → Includes output files and reports  
+- README.md → Provides an overview of the project  
+
+## Additional Notes  
+As I am new to the subject, this repository will be updated with my progress. Suggestions for improvement are always welcome.  
+
+
