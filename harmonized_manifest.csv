@@ -1,0 +1,3 @@
+sample_id,absolute_filepath,direction
+sample1,/Users/yamunanunavath/Desktop/SRR31649983/SRR31649983_1.fastq,forward
+sample1,/Users/yamunanunavath/Desktop/SRR31649983/SRR31649983_2.fastq,reverse
