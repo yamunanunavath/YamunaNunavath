@@ -41,12 +41,12 @@ Identified *Faecalibacterium prausnitzii* and *Enterocloster bolteae* as key mic
 ### 🧠 Deep learning for Alzheimer's disease gene prediction
 Dropout-regularized DNN integrating GWAS SNPs, brain microarray expression, and disease gene databases.
 Achieved **AUC = 0.706** on external validation (p = 0.001). Interpreted with SHAP + GO enrichment.
-→ [View repo](https://github.com/yamunanunavath/BCB-5250-project)
+→ [View repo](https://github.com/yamunanunavath/BCB-5250-project) 
 
 ### 💊 Precision warfarin dose prediction (ML pipeline)
 Full-stack ML pipeline benchmarking 8 models on N=5,700 patients.
 Best: SVR (MAE = 8.81 mg/week) and Logistic Regression (AUC = 0.81). Deployed via Gradio.
-→ [View on Colab](https://colab.research.google.com/drive/1nUCBbo3jQaoMsWKG2FEFGMu3wR6q-1SQ?usp=sharing)
+→ [View on Colab](https://colab.research.google.com/drive/1nUCBbo3jQaoMsWKG2FEFGMu3wR6q-1SQ?usp=sharing) 
 
 ### 🦠 EBV host-virus transcriptomics (Saint Louis University)
 Built end-to-end short-read and long-read RNA-seq pipelines (STAR, StringTie-LR, Kallisto) on HPC.
